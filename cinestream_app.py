@@ -9,7 +9,7 @@ from datetime import date
 st.set_page_config(
     page_title="CineStream Dashboard",
     page_icon="🎬",
-    layout="wide"
+    layout="wide"git 
 )
 
 
